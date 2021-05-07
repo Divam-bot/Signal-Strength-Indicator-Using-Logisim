@@ -1,5 +1,5 @@
 # Signal-Strength-Indicator-Using-Logisim
-Signal strength Indicator simulation Using three different implementations(using mux, using decoders, using Ram).
+Signal strength Indicator simulation Using three different implementations(using mux, using decoders, using Rom).
 
 The goal of this project was to use Logisim to design an LCD display that related to the signal-strength indicator on a cell-phone. We had to design a whole finite state machine with the state diagram. Then we needed to implement it using three different designs. We did this using multiplexers, decoders, and ROM. In the end each used an LED matrix to display the signal strength indicator simulation. 
 
